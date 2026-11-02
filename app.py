@@ -1,4 +1,5 @@
 # Hello World application for the GitHub Actions CI/CD pipeline
+# small change made on the feature-update branch
 
 def hello_world():
     return "Hello, DevOps!"

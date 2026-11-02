@@ -1,3 +1,5 @@
+# Hello World application for the GitHub Actions CI/CD pipeline
+
 def hello_world():
     return "Hello, DevOps!"
 
